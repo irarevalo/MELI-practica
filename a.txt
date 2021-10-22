@@ -1,4 +1,8 @@
 hola participante b
 Hola participante a, Como esta?
+<<<<<<< HEAD
 
 ¿Qué le parece la experiencia de trabajar en MELI?
+=======
+Muy bien, usted?
+>>>>>>> fbcb8838996631d3dd7fe5cb9142e2fd49e52362
